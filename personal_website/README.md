@@ -9,10 +9,11 @@ This is a personal website created for the frontend development assignment. It i
 - **Interactive Elements**: 3D photo card, animations, and hover effects.
 
 ## Deployed Website
-You can view the live website here: 
+You can view the live website here: https://yesmola0901.github.io/My-personal-website/
 **[INSERT YOUR GITHUB PAGES URL HERE]**
 *(Example: https://your-username.github.io/repo-name/)*
 
 ## How to Run Locally
 1. Clone the repository.
 2. Open `index.html` in your browser.
+
